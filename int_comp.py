@@ -64,6 +64,6 @@ def main():
             f'Aportes: {total_aportes}'
         )
 
-
+#cambio
 if __name__ == '__main__':
     main()
